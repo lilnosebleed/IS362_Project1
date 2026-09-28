@@ -34,3 +34,6 @@ amwest_rate = (amwest_delayed / amwest_total) * 100
 print("--- Delay % ---")
 print(f"Alaska Airlines Delay Rate: {alaska_rate:.2f}%")
 print(f"AM West Airlines Delay Rate: {amwest_rate:.2f}%")
+
+# Closing
+# After calculating the total number of flights and the total number of delays across all five cities, we can see the overall delay percentages. deteriming whihc airline is more reliable
